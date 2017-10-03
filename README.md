@@ -1,2 +1,4 @@
-# KittyAngularApp
-Angular Practice App with Kitties
+### Kitty App - Practice with Angular
+
+Angular 
+Nested Component
